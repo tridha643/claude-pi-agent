@@ -1,0 +1,5 @@
+{
+  "name": "claude-pi-agent",
+  "owner": { "name": "tridha643" },
+  "plugins": [{ "name": "pi-agent", "source": "./" }]
+}
